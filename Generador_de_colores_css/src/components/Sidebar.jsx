@@ -24,7 +24,7 @@ const Sidebar = () => {
             <BsFillHeartFill />
           </span>
           <span className="text-lightest text-xl font-medium">
-            Desarrollo de software 2
+            Yamir Palacios Orejuela
           </span>
         </div>
       </div>
